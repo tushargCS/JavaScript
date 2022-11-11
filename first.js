@@ -1,8 +1,8 @@
-let a=promp("enter the no a");
-let b=promp("enter the no b");
-let c=promp("enter the no c");
-let d=promp("enter the no d");
-let e=promp("enter the no e");
+let a=prompt("enter the no a");
+let b=prompt("enter the no b");
+let c=prompt("enter the no c");
+let d=prompt("enter the no d");
+let e=prompt("enter the no e");
 a=Integer.ParseInt(a);
 b=Integer.ParseInt(b);
 c=Integer.ParseInt(c);
